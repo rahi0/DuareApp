@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139300649308",
+    "project_id": "duareapp-63a3a",
+    "storage_bucket": "duareapp-63a3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139300649308:android:eec429fb73e4a7b0b16999",
+        "android_client_info": {
+          "package_name": "com.example.duare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139300649308-310jrfcsg1tsd2fr6lpkbb7ifc7m6866.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF3_owqYGGRnpWPincyF2-bBp_LezgqsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139300649308-310jrfcsg1tsd2fr6lpkbb7ifc7m6866.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

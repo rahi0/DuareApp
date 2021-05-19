@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>139300649308-ll93qr6152tirbj05aep9qlv29qnguer.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.139300649308-ll93qr6152tirbj05aep9qlv29qnguer</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8LadaglLypK58DR43tEgChAHa2IlRZUY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>139300649308</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.duare</string>
+	<key>PROJECT_ID</key>
+	<string>duareapp-63a3a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>duareapp-63a3a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:139300649308:ios:1f894b3bd17f226db16999</string>
+</dict>
+</plist>
